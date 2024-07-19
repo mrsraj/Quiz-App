@@ -1,0 +1,224 @@
+{
+    "Question": [
+        {
+            "question": "What is React?",
+            "options": [
+                "A library for building user interfaces",
+                "A framework for developing mobile apps",
+                "A database management system",
+                "A language for styling web pages"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "Which company developed React?",
+            "options": [
+                "Google",
+                "Microsoft",
+                "Facebook",
+                "Twitter"
+            ],
+            "correctAnswer": 2,
+            "points": 5
+        },
+        {
+            "question": "What is JSX?",
+            "options": [
+                "A CSS framework",
+                "A JavaScript library",
+                "A syntax extension for JavaScript",
+                "A type of database"
+            ],
+            "correctAnswer": 2,
+            "points": 5
+        },
+        {
+            "question": "Which method is used to create a component in React?",
+            "options": [
+                "React.createComponent()",
+                "React.createElement()",
+                "React.component()",
+                "React.newComponent()"
+            ],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "What is a state in React?",
+            "options": [
+                "A permanent storage",
+                "An internal data store (object) of a component",
+                "An external data store",
+                "A method to change the HTML"
+            ],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "What is a prop in React?",
+            "options": [
+                "A type of function",
+                "A special keyword for defining classes",
+                "A way to pass data from parent to child component",
+                "A method to update state"
+            ],
+            "correctAnswer": 2,
+            "points": 5
+        },
+        {
+            "question": "How do you create a functional component in React?",
+            "options": [
+                "Using a class",
+                "Using a function",
+                "Using an array",
+                "Using an object"
+            ],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "What is the virtual DOM?",
+            "options": [
+                "A virtual representation of the real DOM",
+                "A database",
+                "A server-side technology",
+                "A type of styling"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "What is the use of the useState hook in React?",
+            "options": [
+                "To create a new component",
+                "To manage state in functional components",
+                "To fetch data from an API",
+                "To perform side effects"
+            ],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "What is the useEffect hook used for?",
+            "options": [
+                "To manage state",
+                "To perform side effects in functional components",
+                "To fetch data from a database",
+                "To update the DOM"
+            ],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "What does React.Fragment do?",
+            "options": [
+                "It provides a way to render multiple elements without adding extra nodes to the DOM",
+                "It is used to manage state",
+                "It is a type of CSS framework",
+                "It is used for routing"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "How do you pass a prop to a component?",
+            "options": [
+                "Using the props keyword",
+                "Using the state keyword",
+                "Using the class keyword",
+                "Using the function keyword"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "What is the default port number in which the React app runs?",
+            "options": [
+                "3000",
+                "8080",
+                "5000",
+                "4000"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "What is Redux?",
+            "options": [
+                "A state management library",
+                "A CSS framework",
+                "A database",
+                "A server-side technology"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "How do you create a context in React?",
+            "options": [
+                "React.createContext()",
+                "React.createElement()",
+                "React.createState()",
+                "React.createComponent()"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "What is the use of the React.memo function?",
+            "options": [
+                "To prevent unnecessary re-renders of a component",
+                "To manage state",
+                "To create a new component",
+                "To fetch data from an API"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "Which of the following is a lifecycle method in React class components?",
+            "options": [
+                "componentDidMount",
+                "useEffect",
+                "useState",
+                "useReducer"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        },
+        {
+            "question": "How do you handle events in React?",
+            "options": [
+                "Using addEventListener",
+                "Using inline event handlers",
+                "Using synthetic events",
+                "Using DOM events"
+            ],
+            "correctAnswer": 2,
+            "points": 5
+        },
+        {
+            "question": "What is the purpose of the React Router library?",
+            "options": [
+                "To manage state",
+                "To handle routing in a React application",
+                "To style components",
+                "To manage database operations"
+            ],
+            "correctAnswer": 1,
+            "points": 5
+        },
+        {
+            "question": "How do you update the state of a component in React?",
+            "options": [
+                "Using the setState method",
+                "Directly modifying the state object",
+                "Using the updateState method",
+                "Using the state keyword"
+            ],
+            "correctAnswer": 0,
+            "points": 5
+        }
+    ]
+}
